@@ -7,7 +7,7 @@ python：3.6
 ### Schematic Diagram
 Intrusion detection architecture：
 
-![fig1](kdd99-cnn-1\fig1.png)
+![fig1](https://github.com/dendyikbc/kdd99-cnn-1/blob/master/fig1.png)
 
 An example of data processing for KDDCUP.99 data set：
 
