@@ -7,15 +7,15 @@ python：3.6
 ### Schematic Diagram
 Intrusion detection architecture：
 
-![fig1](E:\workspace_github\kdd99-cnn-1\fig1.png)
+![fig1](kdd99-cnn-1\fig1.png)
 
 An example of data processing for KDDCUP.99 data set：
 
-![fig2](E:\workspace_github\kdd99-cnn-1\fig2.png)
+![fig2](kdd99-cnn-1\fig2.png)
 
 The basic structure of the convolutional network：
 
-![fig3](E:\workspace_github\kdd99-cnn-1\fig3.png)
+![fig3](kdd99-cnn-1\fig3.png)
 
 
 
